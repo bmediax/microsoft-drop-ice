@@ -62,6 +62,7 @@ Signed,
 1.  Benji Bilheimer [@benjibee](https://github.com/benjibee)
 1.  Benny Franco [@BennyFranco](https://github.com/BennyFranco)
 1.  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
+1.  Brian Moreno [@bmediax](https://github.com/bmediax)
 1.  Brian Yang [@brianyang](https://github.com/brianyang)
 1.  Bruno Jardon [@bjardon](https://github.com/bjardon)
 1.  Capi Etheriel [@barraponto](https://github.com/barraponto)
